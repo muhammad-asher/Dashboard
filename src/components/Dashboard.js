@@ -238,9 +238,6 @@ const Dashboard = () => {
 					</Col>
 				</Row>
 			</Container>
-			<div>
-				<h1 className="footer">Github</h1>
-			</div>
 		</Container>
 	);
 };

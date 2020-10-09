@@ -18,7 +18,11 @@ body {
 }
 
 .widgetTitle {
-  border-bottom: 2px solid#0A79DF;
+  border-top: 2px solid#4285f4;
+  border-bottom: 2px solid#34a853;
+  border-right: 2px solid #fbbc05;
+  border-left: 2px solid #ea4335;
+
   text-align: left;
   text-transform: uppercase;
   font-size: 14px;
@@ -39,7 +43,6 @@ body {
   font-size: 12px;
   margin-top: 12px;
   padding-left: 12px;
-  
 }
 
 .widgetValue {
@@ -61,9 +64,6 @@ body {
   font-size: 14px;
   width: 140px;
   float: right;
+  border:2px solid #01cd74
 }
-.footer{
-  text-align: center;
-  background: linear-gradient(to bottom, white 0%, #616C6F 100%);
-  color:black
-}
+
